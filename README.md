@@ -6,4 +6,4 @@ A wordle based game.
 - The game might not working properly in all kinda of res, if you get some trouble let me know!
 
 
-*You can play the game by accessing the link:* *[PALAVR](https://mateusfagunddes.github.io/PalavrWEB/)*
+#### *You can play the game by accessing the link:* **[PALAVR](https://mateusfagunddes.github.io/PalavrWEB/)**
