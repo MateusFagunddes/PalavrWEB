@@ -67,6 +67,12 @@ hr {
     color: #ff5050;
     
 }
+
+* {
+    transition: all 0.3s ease-in-out;
+}
+
+
 .hit{
     color: #468B6C;
 }
